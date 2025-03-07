@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 50%;
+    max-width: 600px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+th {
+    background-color: #f8f9fa;
+}
